@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Steps to run project locally
+
+Navigate into the root directory of the project and run `npm install` to install the npm modules<br/>
+Run `npm run start` to run the development server<br/>
+
 ## Available Scripts
 
 In the project directory, you can run:
