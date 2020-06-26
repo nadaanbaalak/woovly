@@ -1,0 +1,528 @@
+{
+    "result": [
+        {
+            "bkt_id": 71544528618506,
+            "bkt_name": "Attend a Concert ",
+            "bkt_name_seo": "Attend a Concert ",
+            "bkt_image": "7a295250-646e-11ea-9550-8703e3741f3b.jpg",
+            "bkt_color": "#341c10",
+            "iht": 457,
+            "wd": 285,
+            "created_on": "2020-03-12 14:33:53",
+            "created_by": "81544528531720",
+            "likeCount": 70614,
+            "likeCnt1": 70597,
+            "likeCnt2": 10,
+            "likeCnt3": 3,
+            "likeCnt4": 1,
+            "likeCnt5": 3,
+            "comment": 2359,
+            "user_info": "",
+            "trendingPoint": 55,
+            "link_user": 2190,
+            "cname": "DIY/Hobby",
+            "user": [
+                {
+                    "uid": "100399251089282211560",
+                    "privacy": 0,
+                    "name": "Salie Consunji",
+                    "uname": "salie.consunji",
+                    "uimage": "//images.woovly.com/w_200/14cc3580-00ec-11e9-aa81-577fb73eea3d.jpg",
+                    "custom_uimage": "null"
+                },
+                {
+                    "uid": "100509422117526149659",
+                    "privacy": 0,
+                    "name": "Arvie Nuelan",
+                    "uname": "arvie.nuelan",
+                    "uimage": "//images.woovly.com/w_200/9b8c69c0-0284-11e9-9ea1-c32c42405a41.jpg",
+                    "custom_uimage": "null"
+                },
+                {
+                    "uid": "100051851019701070787",
+                    "privacy": 0,
+                    "name": "Cheriest Ching",
+                    "uname": "cheriest.ching",
+                    "uimage": "//images.woovly.com/w_200/2db446b0-0fb4-11e9-92fd-09f7f66c9e7b.jpg",
+                    "custom_uimage": "null"
+                }
+            ],
+            "ratio": 1.6,
+            "actWidth": 222,
+            "actHeight": "355px",
+            "actHeight2": "461px"
+        },
+        {
+            "bkt_id": 71517072873086,
+            "bkt_name": "Visit Disneyland",
+            "bkt_name_seo": "Visit Disneyland",
+            "bkt_image": "2eb65470-646f-11ea-9550-8703e3741f3b.jpg",
+            "bkt_color": "#8e9ea8",
+            "iht": 1641,
+            "wd": 1026,
+            "created_on": "2020-03-12 14:38:56",
+            "created_by": "770368913169421",
+            "likeCount": 102645,
+            "likeCnt1": 102605,
+            "likeCnt2": 8,
+            "likeCnt3": 28,
+            "likeCnt4": 1,
+            "likeCnt5": 3,
+            "comment": 2047,
+            "user_info": "",
+            "trendingPoint": 26,
+            "link_user": 3826,
+            "cname": "Food & Drinks",
+            "user": [
+                {
+                    "uid": "61557928994597",
+                    "privacy": 0,
+                    "name": "Arsh Shehry",
+                    "uname": "arsh.shehry.1",
+                    "uimage": "",
+                    "custom_uimage": "null"
+                },
+                {
+                    "uid": "81557933100823",
+                    "privacy": 0,
+                    "name": "Sejal",
+                    "uname": "sejal.60",
+                    "uimage": "",
+                    "custom_uimage": "null"
+                },
+                {
+                    "uid": "2979174478774476",
+                    "privacy": 0,
+                    "name": "Tanveesh Singh Chaudhery",
+                    "uname": "tanveesh.chaudhery",
+                    "uimage": "",
+                    "custom_uimage": "null"
+                }
+            ],
+            "ratio": 1.6,
+            "actWidth": 214,
+            "actHeight": "342px",
+            "actHeight2": "448px"
+        },
+        {
+            "bkt_id": 11531252084234,
+            "bkt_name": "Skydive",
+            "bkt_name_seo": "Skydive",
+            "bkt_image": "e31345e0-646f-11ea-9550-8703e3741f3b.jpg",
+            "bkt_color": "#5983ba",
+            "iht": 1641,
+            "wd": 1026,
+            "created_on": "2020-03-12 14:43:53",
+            "created_by": "10155893105718752",
+            "likeCount": 88607,
+            "likeCnt1": 88582,
+            "likeCnt2": 9,
+            "likeCnt3": 14,
+            "likeCnt4": 1,
+            "likeCnt5": 1,
+            "comment": 1023,
+            "user_info": "",
+            "trendingPoint": 18,
+            "link_user": 3439,
+            "cname": "Adventure Sports",
+            "user": [
+                {
+                    "uid": "81552643156588",
+                    "privacy": 0,
+                    "name": "purvi burad",
+                    "uname": "purvi.burad",
+                    "uimage": "",
+                    "custom_uimage": "null"
+                },
+                {
+                    "uid": "81552643120871",
+                    "privacy": 0,
+                    "name": "Bandi Kalyan",
+                    "uname": "bandi.kalyan",
+                    "uimage": "",
+                    "custom_uimage": "null"
+                },
+                {
+                    "uid": "100407642648999700951",
+                    "privacy": 0,
+                    "name": "chirag negi",
+                    "uname": "chirag.negi",
+                    "uimage": "https://images.woovly.com/w_200/0ab99d90-473b-11e9-acce-375938e111f7.jpg",
+                    "custom_uimage": "0ab99d90-473b-11e9-acce-375938e111f7.jpg"
+                }
+            ],
+            "ratio": 1.6,
+            "actWidth": 206,
+            "actHeight": "330px",
+            "actHeight2": "435px"
+        },
+        {
+            "bkt_id": 61538330701294,
+            "bkt_name": "Neymar Jr",
+            "bkt_name_seo": "Neymar Jr",
+            "bkt_image": "331cd7e0-64e8-11ea-9550-8703e3741f3b.jpg",
+            "bkt_color": "#202529",
+            "iht": 1376,
+            "wd": 1080,
+            "created_on": "2020-03-13 05:05:06",
+            "created_by": "108121512257332287685",
+            "likeCount": 5571,
+            "likeCnt1": 5571,
+            "likeCnt2": 0,
+            "likeCnt3": 0,
+            "likeCnt4": 0,
+            "likeCnt5": 0,
+            "comment": 100,
+            "user_info": "",
+            "trendingPoint": 13,
+            "link_user": 109,
+            "cname": "Sports & Games",
+            "user": [
+                {
+                    "uid": "108121512257332287685",
+                    "privacy": 0,
+                    "name": "ritik kumar",
+                    "uname": "ritik.22",
+                    "uimage": "//images.woovly.com/w_200/71b444d0-b52f-11e8-8d41-eff91ac659d0.jpg",
+                    "custom_uimage": "71b444d0-b52f-11e8-8d41-eff91ac659d0.jpg"
+                },
+                {
+                    "uid": "11544426137448",
+                    "privacy": 0,
+                    "name": "Gaurav Kumar",
+                    "uname": "gaurav.64",
+                    "uimage": "",
+                    "custom_uimage": "null"
+                },
+                {
+                    "uid": "11544438131191",
+                    "privacy": 0,
+                    "name": "Saloni Suman",
+                    "uname": "saloni.suman",
+                    "uimage": "",
+                    "custom_uimage": "null"
+                }
+            ],
+            "ratio": 1.27,
+            "actWidth": 198,
+            "actHeight": "251px",
+            "actHeight2": "357px"
+        },
+        {
+            "bkt_id": 61538294366285,
+            "bkt_name": "Meet Virat Kohli in Eden Garden",
+            "bkt_name_seo": "Meet Virat Kohli in Eden Garden",
+            "bkt_image": "753ffee0-64e8-11ea-9550-8703e3741f3b.jpeg",
+            "bkt_color": "#1b1517",
+            "iht": 433,
+            "wd": 268,
+            "created_on": "2020-03-13 05:06:57",
+            "created_by": "41536744136078",
+            "likeCount": 14541,
+            "likeCnt1": 14540,
+            "likeCnt2": 1,
+            "likeCnt3": 0,
+            "likeCnt4": 0,
+            "likeCnt5": 0,
+            "comment": 55,
+            "user_info": "",
+            "trendingPoint": 13,
+            "link_user": 407,
+            "cname": "DIY/Hobby",
+            "user": [
+                {
+                    "uid": "11544437375758",
+                    "privacy": 0,
+                    "name": "Shroddha",
+                    "uname": "shroddha",
+                    "uimage": "",
+                    "custom_uimage": "null"
+                },
+                {
+                    "uid": "31544438290298",
+                    "privacy": 0,
+                    "name": "Saloni Kumari",
+                    "uname": "saloni.kumari",
+                    "uimage": "",
+                    "custom_uimage": "null"
+                },
+                {
+                    "uid": "21544441064285",
+                    "privacy": 0,
+                    "name": "Shalini",
+                    "uname": "shalini.47",
+                    "uimage": "",
+                    "custom_uimage": "null"
+                }
+            ],
+            "ratio": 1.62,
+            "actWidth": 190,
+            "actHeight": "308px",
+            "actHeight2": "413px"
+        },
+        {
+            "bkt_id": 31544080572682,
+            "bkt_name": "BlackPinkWorldTour2019",
+            "bkt_name_seo": "BlackPinkWorldTour2019",
+            "bkt_image": "aa7b4e60-129b-11ea-b047-21d8c7f78708.jpg",
+            "bkt_color": "#c7b7b0",
+            "iht": 1350,
+            "wd": 1080,
+            "created_on": "2020-04-22 10:49:44",
+            "created_by": "2114434338806412",
+            "likeCount": 64353,
+            "likeCnt1": 64332,
+            "likeCnt2": 17,
+            "likeCnt3": 2,
+            "likeCnt4": 1,
+            "likeCnt5": 1,
+            "comment": 1369,
+            "user_info": "",
+            "trendingPoint": 12,
+            "link_user": 1170,
+            "cname": "DIY/Hobby",
+            "user": [
+                {
+                    "uid": "100222594221177251451",
+                    "privacy": 0,
+                    "name": "Jenny Mojica",
+                    "uname": "jenny.mojica",
+                    "uimage": "//images.woovly.com/w_200/bbc7edc0-0272-11e9-9ea1-c32c42405a41.jpg",
+                    "custom_uimage": "null"
+                },
+                {
+                    "uid": "100143211963241483990",
+                    "privacy": 0,
+                    "name": "Neelam Mongia",
+                    "uname": "neelam.mongia",
+                    "uimage": "",
+                    "custom_uimage": "null"
+                },
+                {
+                    "uid": "100264318106901805257",
+                    "privacy": 0,
+                    "name": "Essa Marjorie Arganda",
+                    "uname": "essa.arganda",
+                    "uimage": "",
+                    "custom_uimage": "null"
+                }
+            ],
+            "ratio": 1.25,
+            "actWidth": 182,
+            "actHeight": "228px",
+            "actHeight2": "333px"
+        },
+        {
+            "bkt_id": 71535047735101,
+            "bkt_name": "join gym",
+            "bkt_name_seo": "join gym",
+            "bkt_image": "fdc43c10-7b35-11e9-ac39-4deb865de2b9.PNG",
+            "bkt_color": "#333333",
+            "iht": 697,
+            "wd": 464,
+            "created_on": "2019-05-20 19:32:25",
+            "created_by": "31535046853974",
+            "likeCount": 22843,
+            "likeCnt1": 22839,
+            "likeCnt2": 1,
+            "likeCnt3": 1,
+            "likeCnt4": 1,
+            "likeCnt5": 1,
+            "comment": 398,
+            "user_info": "",
+            "trendingPoint": 11,
+            "link_user": 772,
+            "cname": "Fitness",
+            "user": [
+                {
+                    "uid": "116323999436386931916",
+                    "privacy": 0,
+                    "name": "CHIRAG GUPTA",
+                    "uname": "chirag.gupta.9",
+                    "uimage": "",
+                    "custom_uimage": "null"
+                },
+                {
+                    "uid": "675286796233875",
+                    "privacy": 0,
+                    "name": "Shubham Salve",
+                    "uname": "shubham.salve",
+                    "uimage": "",
+                    "custom_uimage": "null"
+                },
+                {
+                    "uid": "110578709763290153444",
+                    "privacy": 0,
+                    "name": "Palak Chaudhry",
+                    "uname": "palak.chaudhry",
+                    "uimage": "https://images.woovly.com/w_200/90bd5bc0-70f8-11e9-a97a-a3950b35567c.jpg",
+                    "custom_uimage": "90bd5bc0-70f8-11e9-a97a-a3950b35567c.jpg"
+                }
+            ],
+            "ratio": 1.5,
+            "actWidth": 174,
+            "actHeight": "261px",
+            "actHeight2": "367px"
+        },
+        {
+            "bkt_id": 81535359603887,
+            "bkt_name": "Hike through Tropical evergreen forest",
+            "bkt_name_seo": "Hike through Tropical evergreen forest",
+            "bkt_image": "c22d30b0-1295-11ea-b047-21d8c7f78708.jpg",
+            "bkt_color": "#151811",
+            "iht": 3677,
+            "wd": 2756,
+            "created_on": "2020-03-13 05:09:58",
+            "created_by": "107370834307277235025",
+            "likeCount": 22140,
+            "likeCnt1": 22139,
+            "likeCnt2": 0,
+            "likeCnt3": 0,
+            "likeCnt4": 1,
+            "likeCnt5": 0,
+            "comment": 1496,
+            "user_info": "",
+            "trendingPoint": 8,
+            "link_user": 561,
+            "cname": "Adventure Sports",
+            "user": [
+                {
+                    "uid": "105831801093914008778",
+                    "privacy": 0,
+                    "name": "Futuristic Indian",
+                    "uname": "futuristic.indian",
+                    "uimage": "//images.woovly.com/w_200/f1a884b0-ab95-11e8-892e-617d44e845df.jpg",
+                    "custom_uimage": "null"
+                },
+                {
+                    "uid": "105194247047389929224",
+                    "privacy": 0,
+                    "name": "sahil patel",
+                    "uname": "sahil.patel",
+                    "uimage": "//images.woovly.com/w_200/591158b0-bf2e-11e8-9bb0-359292b5d7eb.jpg",
+                    "custom_uimage": "null"
+                },
+                {
+                    "uid": "105703476793514675195",
+                    "privacy": 0,
+                    "name": "Arshdeep Singh Bindra",
+                    "uname": "arshdeep.bindra",
+                    "uimage": "//images.woovly.com/w_200/62d68410-de91-11e8-a9ed-1f25fb7d7728.jpg",
+                    "custom_uimage": "null"
+                }
+            ],
+            "ratio": 1.33,
+            "actWidth": 166,
+            "actHeight": "221px",
+            "actHeight2": "326px"
+        },
+        {
+            "bkt_id": 81534282259920,
+            "bkt_name": "Hike to Lake 22 in Washington",
+            "bkt_name_seo": "Hike to Lake 22 in Washington",
+            "bkt_image": "f307b3e0-64e8-11ea-9550-8703e3741f3b.jpg",
+            "bkt_color": "#2c3334",
+            "iht": 422,
+            "wd": 270,
+            "created_on": "2020-03-13 05:10:28",
+            "created_by": "31530971286165",
+            "likeCount": 16662,
+            "likeCnt1": 16662,
+            "likeCnt2": 0,
+            "likeCnt3": 0,
+            "likeCnt4": 0,
+            "likeCnt5": 0,
+            "comment": 2331,
+            "user_info": "",
+            "trendingPoint": 8,
+            "link_user": 362,
+            "cname": "Adventure Sports",
+            "user": [
+                {
+                    "uid": "81593096634837",
+                    "privacy": 0,
+                    "name": "Sundar",
+                    "uname": "sundar.32",
+                    "uimage": "",
+                    "custom_uimage": "null"
+                },
+                {
+                    "uid": "11593096788077",
+                    "privacy": 0,
+                    "name": "Sundar",
+                    "uname": "sundar.34",
+                    "uimage": "",
+                    "custom_uimage": "null"
+                },
+                {
+                    "uid": "41593096998627",
+                    "privacy": 0,
+                    "name": "Arpita Dutta",
+                    "uname": "arpita.dutta.4",
+                    "uimage": "",
+                    "custom_uimage": "null"
+                }
+            ],
+            "ratio": 1.56,
+            "actWidth": 158,
+            "actHeight": "246px",
+            "actHeight2": "352px"
+        },
+        {
+            "bkt_id": 81534227995494,
+            "bkt_name": "Visit The Golden Temple",
+            "bkt_name_seo": "Visit The Golden Temple",
+            "bkt_image": "a3fcbff0-129c-11ea-a540-d328a4c59981.jpg",
+            "bkt_color": "#704d22",
+            "iht": 1920,
+            "wd": 1080,
+            "created_on": "2020-03-13 05:46:16",
+            "created_by": "31531545658341",
+            "likeCount": 17831,
+            "likeCnt1": 17829,
+            "likeCnt2": 1,
+            "likeCnt3": 1,
+            "likeCnt4": 0,
+            "likeCnt5": 0,
+            "comment": 395,
+            "user_info": "",
+            "trendingPoint": 8,
+            "link_user": 697,
+            "cname": "Travel",
+            "user": [
+                {
+                    "uid": "100516926490536306535",
+                    "privacy": 0,
+                    "name": "Rahi Barot",
+                    "uname": "rahi.barot",
+                    "uimage": "//images.woovly.com/w_200/e421dea0-bbc0-11e8-9f5c-bffbb979a267.jpg",
+                    "custom_uimage": "null"
+                },
+                {
+                    "uid": "100723900361159170015",
+                    "privacy": 0,
+                    "name": "Ishita Budhiraja",
+                    "uname": "ishita.budhiraja",
+                    "uimage": "//images.woovly.com/w_200/2bd39260-d143-11e8-88a3-91cd96ff9aef.jpg",
+                    "custom_uimage": "null"
+                },
+                {
+                    "uid": "100227465056895928366",
+                    "privacy": 0,
+                    "name": "shanvi chauhan",
+                    "uname": "shanvi.chauhan",
+                    "uimage": "",
+                    "custom_uimage": "null"
+                }
+            ],
+            "ratio": 1.78,
+            "actWidth": 150,
+            "actHeight": "267px",
+            "actHeight2": "373px"
+        }
+    ],
+    "error": {
+        "errCode": 0,
+        "errMsg": "Bucket Details Fetched successfully"
+    }
+}
